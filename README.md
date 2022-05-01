@@ -1,6 +1,6 @@
 ### Hey, I'm Mohammad.
 
-I'm a software developer based in Helsinki, Finland. 
+I'm a Content Creator @YouTube 🍿 
 
 ![](https://github-readme-stats.vercel.app/api?username=mohammad9574&show_icons=true&theme=nightowl)
 
